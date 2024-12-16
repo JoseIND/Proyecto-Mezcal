@@ -151,8 +151,9 @@ h2 {color:#059669; font-size:15px; text-align: center; font-family: 'Times New R
 .boton { color:white;font-size: 5px; width: 55px;height: 20px;padding: 5px; text-align: center; background-color: #65A30D;border-radius: 20px ;}
 .boton:hover {background-color: #228b22;font-size: 11px;border: 5px solid; width: 110px;padding: 20px; border-radius: 20px ;}
 h3 {color:#059669 ; font-size: 15px; text-align: center;}
-.distinto {color: #65A30D;}
-
+.distinto {color: #65A30D;font-size:20px !important}
+.img2_1 h3 {font-size: 24px ; text-align: center}
+.img2{display: flex; flex-direction: column; justify-content: center; align-items: center}
 .informativo{font-size: 15px;}
 section {color: #064E3B;}
 .informativo2 {font-size: 15px;}
